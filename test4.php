@@ -1,1 +1,1 @@
-padding: 40
+padding: 20
